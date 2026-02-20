@@ -1,10 +1,10 @@
 # Inference of Unate Boolean Functions
 
-This repository contains the implementation of the algorithms and experimental framework presented in the article:
+This repository contains the implementation of the algorithms and experimental section presented in the article:
 
 **“An Exploratory Approach to Compatibility and Inference of Unate Functions.”**
 
-The project provides a computational framework for exploring compatibility conditions in Boolean networks under unateness constraints, including the construction of discrepancy vectors, coverage vectors, and algorithmic exploration of admissible unate functions.
+The project provides a computational framework for exploring a set of Boolean observations and deciding whether there exists a unate Boolean function that is compatible with the observations.
 
 ---
 
@@ -12,12 +12,8 @@ The project provides a computational framework for exploring compatibility condi
 
 The objective of this repository is to:
 
-- Implement the exploratory compatibility algorithm described in the manuscript.
-- Construct and analyze discrepancy and coverage vectors.
-- Evaluate computational performance (execution time and resource usage).
-- Provide an experimental environment for testing unate Boolean function inference scenarios.
-
-This implementation prioritizes clarity, reproducibility, and computational transparency.
+- Implement the coverage and exploratory algorithms described in the article.
+- Share the codes to allow the community to validate and replicate the experiments presented in the article.
 
 ---
 
@@ -31,7 +27,7 @@ Inference-of-unate-Boolean-functions/
 └── README.md
 ```
 
-The `src/` directory contains the main implementation of the algorithms and supporting utilities.
+The “src/” directory contains the main implementation of input validation and algorithms.
 
 ---
 
