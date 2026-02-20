@@ -1,5 +1,10 @@
 # Inference of Unate Boolean Functions
 
+![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)
+![Python](https://img.shields.io/badge/Python-3.13-blue)
+![Status](https://img.shields.io/badge/status-research--prototype-orange)
+![Reproducible](https://img.shields.io/badge/reproducible-yes-brightgreen)
+
 This repository contains the implementation of the algorithms and experimental section presented in the article:
 
 **“An Exploratory Approach to Compatibility and Inference of Unate Functions.”**
@@ -78,11 +83,13 @@ All experiments associated with the manuscript were executed using the exact pac
 To guarantee full reproducibility, users are encouraged to install the specified versions in a clean virtual environment.
 
 ---
-
 ## License
 
-This project is released for academic and research purposes.  
-(A specific license file may be added if desired.)
+This project is licensed under the Apache License 2.0.
+
+You are free to use, modify, and distribute this software in accordance with the terms of the license.
+
+See the `LICENSE` file for full details.
 
 ---
 
